@@ -71,7 +71,7 @@ python3 scripts/build.py --export exports
 
 Экспорт появится в `exports/RELIQ.html`. Готовый HTML генерируется из `src/`, `content.json`, `sources.json` и графики. Содержательные правки следует вносить в исходники, затем повторять сборку.
 
-Иконки и QR уже входят в репозиторий. Для их регенерации предусмотрены `scripts/icons.cjs` и `scripts/qr.py`: нужны Node.js с Playwright/Chromium и Python с ReportLab/Pillow соответственно.
+Иконка приложения — сгенерированная иллюстрация бронзового додекаэдра с бирюзовой подсветкой; исходник `docs/assets/reliq-icon-art.png`. Это символ приложения, а не музейная фотография. Размеры иконки и QR уже входят в репозиторий. Для их регенерации предусмотрены `scripts/icons.cjs` и `scripts/qr.py`: нужны Node.js с Playwright/Chromium и Python с ReportLab/Pillow соответственно.
 
 ## Локальный просмотр и проверка
 

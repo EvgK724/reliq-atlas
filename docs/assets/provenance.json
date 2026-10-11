@@ -1,5 +1,5 @@
 {
-  "creator": "Original native SVG artwork created for RELIQ",
+  "creator": "Original educational SVG artwork and generated app icon created for RELIQ",
   "created": "2026-10-11",
   "thirdPartyImagesIncluded": false,
   "license": "MIT for original code and artwork",
@@ -74,5 +74,12 @@
       "limits": "Схема стилизована по фото и чертежу. Не карта реставрации, не сечение на основе томографии, не модель рабочего механизма. Декоративный неоновый контур не изображает след инструмента.",
       "materialsRisk": "Не рисовать отдельные приклеенные лопасти как доказанный древний способ сборки. На фото видны реставрационные заполнения; точная исходная толщина не установлена в использованной документации."
     }
-  ]
+  ],
+  "appIcon": {
+    "source": "reliq-icon-art.png",
+    "created": "2026-10-11",
+    "method": "OpenAI built-in image generation; approved generated artwork resized by scripts/icons.cjs",
+    "subject": "Ancient bronze Roman dodecahedron with turquoise and amber light on a dark background",
+    "limits": "Symbolic brand illustration, not a museum photograph or an exact archaeological reconstruction."
+  }
 }
