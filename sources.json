@@ -1,0 +1,234 @@
+{
+  "anti-museum": {
+    "title": "Национальный археологический музей Афин — история исследований механизма",
+    "url": "https://antikythera-mechanism.namuseum.gr/en/science-historian/",
+    "type": "Музей",
+    "supports": "Музейная датировка 150–100 до н. э.; обнаружение судна и подъём 1900–1901; создание соответствовало знаниям, материалам и техникам эпохи."
+  },
+  "anti-ucl": {
+    "title": "UCL — модель утраченного переднего узла, 2021",
+    "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer",
+    "type": "Университет / авторы исследования",
+    "supports": "30 сохранившихся бронзовых колёс; около трети исходного устройства, 82 фрагмента; томография; музей Афин; моделирование переднего планетного узла; задача изготовления модели древними техниками."
+  },
+  "anti-model": {
+    "title": "Freeth et al. — A Model of the Cosmos in the ancient Greek Antikythera Mechanism, Scientific Reports, 2021",
+    "url": "https://www.nature.com/articles/s41598-021-84310-w",
+    "type": "Рецензируемое исследование",
+    "supports": "Реконструкция планетного дисплея — модель с гипотетическими деталями, не гарантированная копия оригинала. Есть поправка к статье от 24 августа 2021."
+  },
+  "anti-origin": {
+    "title": "Paul A. Iversen — The Antikythera Mechanism, Rhodes, and Epeiros",
+    "url": "https://archive.nyu.edu/bitstream/2451/61288/47/02.%20Iversen.pdf",
+    "type": "Исследование, университетский репозиторий",
+    "supports": "Гипотеза производства на Родосе для получателя из Эпира; связь календаря с заказчиком не обязана совпадать с местом мастерской."
+  },
+  "lyc-museum": {
+    "title": "British Museum — The Lycurgus Cup, 1958,1202.1",
+    "url": "https://www.britishmuseum.org/collection/object/H_1958-1202-1",
+    "type": "Музейный каталог",
+    "supports": "IV век; диаметр 132 мм, высота 158,80 мм, масса 700 г по текущему каталогу; сцена Ликурга; стекло и серебряная оправа; покупка в 1958."
+  },
+  "lyc-science": {
+    "title": "Freestone, Meeks, Sax, Higgitt — The Lycurgus Cup: A Roman Nanotechnology, Gold Bulletin, 2007",
+    "url": "https://orca.cardiff.ac.uk/id/eprint/13680/1/Freestone%20art%253A10.1007%252FBF03215599.pdf",
+    "type": "Исследование BM и Cardiff University",
+    "supports": "Микроскопия: частицы серебряно-золотого сплава порядка 50–100 нм; следы абразивного удаления и полировки, включая тонкие параллельные линии; неизвестный findspot; вопросы приготовления стекла и контроля цвета.",
+    "note": "Для приложения лучше краткий пересказ технических выводов. В статье высота с оправой 16,5 см; в текущем каталоге 158,80 мм. Не смешивать измерения: использовать каталог и подписать его."
+  },
+  "lyc-replica": {
+    "title": "Lycurgus cup: the nature of dichroism in a replica glass having similar composition, Journal of Cultural Heritage, 2021",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1296207421001072",
+    "type": "Экспериментальное исследование",
+    "supports": "Исследуется стекло сходного состава и роль добавок в дихроизме; воспроизведение оптического свойства не устанавливает исторический рецепт конкретной мастерской."
+  },
+  "ulf-met": {
+    "title": "The Metropolitan Museum of Art — Sword, L.2006.57",
+    "url": "https://www.metmuseum.org/art/collection/search/34990",
+    "type": "Музейный каталог",
+    "supports": "Конкретный предмет: ок. 850–900; 96 см; 1497 г; сталь, железо, серебро, медный сплав; надпись +VLFBERHT+; частное собрание, предоставлен The Met. Предположительная среднерейнская традиция, продолжавшаяся поколениями.",
+    "note": "Каталог не публикует металлографическое доказательство тигельной стали для этого экземпляра. Не переносить на него результаты анализа иных мечей."
+  },
+  "ulf-williams": {
+    "title": "Alan Williams — A metallurgical study of some Viking swords, Gladius 29, 2009",
+    "url": "https://gladius.revistas.csic.es/index.php/gladius/article/view/218",
+    "type": "Рецензируемая металлография",
+    "supports": "Исследование 44 мечей Ulfberht и других мечей эпохи викингов; неоднородные технологии; среди гипотез для высокоуглеродистых малошлаковых экземпляров — тигельная сталь."
+  },
+  "ulf-iron": {
+    "title": "Alan Williams — A note on liquid iron in medieval Europe, 2009",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19831261/",
+    "type": "Рецензируемое исследование / PubMed",
+    "supports": "Анализы и письменные свидетельства поддерживают присутствие тигельной стали в раннесредневековой Западной Европе; вероятный импорт с Ближнего Востока — гипотеза, не доказанный маршрут каждого меча."
+  },
+  "ulf-edge": {
+    "title": "David Edge, Alan Williams — Some early medieval swords in the Wallace Collection and elsewhere, Gladius XXIII, 2003",
+    "url": "https://gladius.revistas.csic.es/index.php/gladius/article/download/50/51/0",
+    "type": "Рецензируемая металлография",
+    "supports": "Обсуждается Ulfberht со стальными лезвиями, кузнечно сваренными с железной сердцевиной. Нельзя считать все клинки с этой надписью однородным высокоуглеродистым тигельным металлом."
+  },
+  "ulf-petri": {
+    "title": "Ingo Petri — Material and Properties of VLFBERHT Swords, The Sword, 2019 / online 2021",
+    "url": "https://www.cambridge.org/core/books/abs/sword/material-and-properties-of-vlfberht-swords/5151484BCC44E9436B588408AAF32A21",
+    "type": "Исследование металлургии, издательская аннотация",
+    "supports": "Исследованы 17 клинков, 3 ранее изучал Williams; многослойная структура и европейское сырьё как альтернатива восточной тигельной стали. В 4 случаях использованы рентген/КТ. Полный текст главы не читался; формулировки ограничены аннотацией."
+  },
+  "phaistos-museum": {
+    "title": "Heraklion Archaeological Museum — The Phaistos Disc",
+    "url": "https://www.heraklionmuseum.gr/en/exhibit/the-phaistos-disc/",
+    "type": "Музей",
+    "supports": "Находка 3 июля 1908 года, датировка около 1700–1650 до н.э., 241 знак и 61 группа, штамповка сырой глины, гипотеза гимна/заклинания; расшифровка не установлена."
+  },
+  "phaistos-catalog": {
+    "title": "Heraklion Museum, Π-Ν1358 — каталог Фестского диска",
+    "url": "https://ca.heraklionmuseum.gr/ca/pawtucket/index.php/Detail/objects/336",
+    "type": "Музейный каталог",
+    "supports": "Диаметр 15,8–16,5 см, глина, целый предмет, Phaistos House 101, музейный инвентарный номер и размеры.",
+    "note": "Веб-парсер выдаёт ошибку, HTML непосредственно загружен и прочитан через curl."
+  },
+  "phaistos-sns": {
+    "title": "Scuola Normale Superiore, Mnamon — Phaistos Disc, Maurizio Del Freo",
+    "url": "https://mnamon.sns.it/index.php?id=22&lang=en&page=Scrittura",
+    "type": "Университетская справка",
+    "supports": "45 типов знаков; нарушенный контекст; сравнения с минойскими предметами подтверждают древнюю подлинность; возможная слоговая система; религиозные и календарные чтения не проверены."
+  },
+  "phaistos-oup": {
+    "title": "Ilaria Caloi — The Phaistos Disc: Placing an Enigmatic Artefact in its Cultural Context (2024)",
+    "url": "https://academic.oup.com/book/58672/chapter/485388307",
+    "type": "Научная глава",
+    "supports": "Культурные параллели с Фестом и аргументы за подлинность; отсутствие прямой проверки даты обжига, нерешённые вопросы датировки и культурного контекста.",
+    "note": "Доступны аннотация и поисковые фрагменты; не использовать для деталей за пределами этих фрагментов."
+  },
+  "voynich-yale": {
+    "title": "Yale Library — The Beinecke Cipher (Voynich) Manuscript",
+    "url": "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript",
+    "type": "Библиотека-хранитель",
+    "supports": "MS 408, неизвестная письменность/автор, содержание не прочитано; иллюстративные разделы; покупка Войничем в 1912 году и дар библиотеке в 1969 году.",
+    "note": "Заголовок страницы сохраняет старую датировку конец XV–XVI вв.; не выдавать её за результат радиоуглеродного анализа."
+  },
+  "voynich-catalog": {
+    "title": "Yale Beinecke MS 408 — physical catalogue description",
+    "url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms408.HTM",
+    "type": "Библиотечный каталог",
+    "supports": "225 ×160 мм, пергамент, складные листы, физическое описание и переплёт.",
+    "note": "Исторические атрибуции и датировка в старом каталоге частично устарели; использовать только физическое описание."
+  },
+  "voynich-arizona": {
+    "title": "University of Arizona / Daniel Stolte — Experts determine age of book nobody can read (2011)",
+    "url": "https://phys.org/news/2011-02-experts-age.html",
+    "type": "Сообщение исследовавшего университета",
+    "supports": "Первичный пресс-релиз Arizona, размещённый Phys.org: четыре образца пергамента, интервал 1404–1438, чернила отдельно не датированы; краски совместимы с палитрой эпохи."
+  },
+  "voynich-chemistry": {
+    "title": "McCrone Associates — Analysis of the Voynich Manuscript (2009)",
+    "url": "https://library.yale.edu/sites/default/files/2026-06/voynich_analysis.pdf",
+    "type": "Лабораторный отчёт",
+    "supports": "Проведён химический анализ чернил и красок; PDF опубликован библиотекой-хранителем.",
+    "note": "Не приписывать этому анализу точную дату нанесения чернил."
+  },
+  "voynich-linguistics": {
+    "title": "Bowern & Lindemann — The Linguistics of the Voynich Manuscript, Annual Review of Linguistics 7 (2021)",
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-011619-030613",
+    "type": "Научный обзор",
+    "supports": "Лингвистические закономерности; аргументы в пользу языкового содержания не равны расшифровке; обсуждение естественного языка, шифра и псевдотекста."
+  },
+  "voynich-yale2025": {
+    "title": "Yale News — Deciphering a mysterious manuscript (21 February 2025)",
+    "url": "https://news.yale.edu/2025/02/21/deciphering-mysterious-manuscript",
+    "type": "Университет, комментарий лингвиста",
+    "supports": "Письменность не прочитана; палеографический анализ различает пять писцов; неизвестность текста не мешает исследовать структуру."
+  },
+  "norton-report": {
+    "title": "Allen Archaeology — Brills Farm, Norton Disney (March 2024), Appendix 7 by Lorena Hitchens",
+    "url": "https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-805-1/dissemination/allenarc1-521355_222037.pdf",
+    "type": "Первичный отчёт раскопок",
+    "supports": "Контекст находки, 8 см высота/8,6 см ширина, в таблице масса 254 г; 12 граней/20 выступов; признаки литья по восковой модели и характер износа.",
+    "note": "Таблица массы расходится с пресс-релизом (245 г). Удобно отображать ≈250 г с раскрываемой оговоркой. В отчёте также опечатка в описании минимального отверстия: ориентироваться на таблицу, а не на буквенную схему."
+  },
+  "norton-council": {
+    "title": "Lincolnshire County Council — Mysterious Roman dodecahedron (2024)",
+    "url": "https://www.lincolnshire.gov.uk/news/article/1853/mysterious-roman-dodecahedron-found-in-norton-disney-to-go-on-display-in-lincolnshire-for-the-first-time",
+    "type": "Музей / совет графства",
+    "supports": "Предварительная датировка III–IV вв., высота около 8 см, масса по пресс-релизу 245 г; назначение не определено."
+  },
+  "norton-group": {
+    "title": "Norton Disney History and Archaeology Group — The Norton Disney Dodecahedron",
+    "url": "https://nortondisneyhag.org/?page_id=2406",
+    "type": "Группа раскопок",
+    "supports": "Находка в июне 2023 в траншее 4; XRF приблизительно 75% медь, 7% олово, 18% свинец; контекст и выставочная история.",
+    "note": "Категоричное отрицание всех утилитарных функций на популярной странице не воспроизводить как доказанный вывод."
+  },
+  "norton-university": {
+    "title": "Newcastle University — Digging for Britain dodecahedron (2024)",
+    "url": "https://www.ncl.ac.uk/press/articles/archive/2024/01/diggingforbritaindodecahedron/",
+    "type": "Университет, исследователь предмета",
+    "supports": "Различие размеров разных додекаэдров; отсутствие известного античного письменного/изобразительного объяснения; особая ценность документированного места находки."
+  },
+  "norton-museum": {
+    "title": "National Civil War Centre / Newark Museum — Norton Disney Dodecahedron",
+    "url": "https://nationalcivilwarcentre.com/whatson/exhibitions/nortondisneydodecahedron/",
+    "type": "Текущий музей",
+    "supports": "Нынешний показ в Ньюарке, раскопки 2024–2026 уточнили карьер и промышленную территорию; предварительная датировка конец III — начало IV в.; функция остаётся открытой."
+  },
+  "sabu-label": {
+    "title": "Египетский музей Каира: этикетка JE 71295 на фотографии Martin1833",
+    "url": "https://commons.wikimedia.org/wiki/File:Disk_of_Sabu.jpg",
+    "type": "Первичный музейный текст и прямое фото предмета",
+    "supports": "I династия, около 2960–2770 до н. э.; гробница Сабу; schist; JE 71295; осторожные функциональные гипотезы. Видны фрагменты и реставрационные заполнения.",
+    "note": "Фото от 15 октября 2023 года, CC0. Источник хранится на Wikimedia Commons; это не онлайн-каталог музея. Этикетка прочитана непосредственно на полном изображении."
+  },
+  "sabu-drawing": {
+    "title": "Диск Сабу: чертёж по W. B. Emery, 1949, fig. 58, p. 101",
+    "url": "https://commons.wikimedia.org/wiki/File:Sabu_disk_Emery.svg",
+    "type": "Перерисовка опубликованного археологического чертежа",
+    "supports": "Форма сверху, условный боковой вид и сечение восстановленного сосуда; диаметр около 60 см; открытие в 1936 году.",
+    "note": "Gretarsson, 2019, CC0; репродукция по первичному отчёту, не новое измерение. Сам полный том I не был доступен для чтения."
+  },
+  "sabu-emery-bib": {
+    "title": "IFAO: W. B. Emery, Great Tombs of the First Dynasty I (1949)",
+    "url": "https://www.ifao.egnet.net/bases/beo/beo2035",
+    "type": "Научная библиография первичного отчёта",
+    "supports": "Библиографическая идентификация отчёта раскопок Саккары.",
+    "note": "Подтверждает издание, но не заменяет прочтение содержания всех страниц."
+  },
+  "stone-ucl-vessels": {
+    "title": "UCL Digital Egypt: изготовление каменных сосудов",
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/stone/vessels.html",
+    "type": "Университетский материал с музейными предметами",
+    "supports": "Высокий уровень изготовления до I династии; грубая обработка каменными орудиями, сверление полостей и сердечники сверления.",
+    "note": "Общие методы, не реконструкция изготовления JE 71295."
+  },
+  "stone-ucl-early": {
+    "title": "UCL: каменные сосуды Раннего царства",
+    "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/stonevessels/stonevesselsarchaicegypt.html",
+    "type": "Университетская подборка археологических предметов",
+    "supports": "Распространённость каменных сосудов в элитных погребениях; кальцит и алевролит среди материалов."
+  },
+  "stone-met-abrasive": {
+    "title": "Serotta & Carò, Met: Hidden Secrets of Ancient Egyptian Technology (2015)",
+    "url": "https://www.metmuseum.org/perspectives/ancient-egyptian-technology",
+    "type": "Исследование музейных реставраторов и материаловеда",
+    "supports": "Роль абразивов; SEM‑EDS корунда, кальцита и продуктов коррозии бронзы в остатках сверления амарнского известняка.",
+    "note": "Объект XVIII династии. Нельзя приписывать тот же состав абразива диску Сабу I династии."
+  },
+  "stone-stocks": {
+    "title": "Denys A. Stocks: Making stone vessels in ancient Mesopotamia and Egypt (1993)",
+    "url": "https://doi.org/10.1017/S0003598X00045804",
+    "type": "Экспериментальная археология, Antiquity 67, 596–603",
+    "supports": "Экспериментальная проверка материалов и методов раннего сверления.",
+    "note": "Проверены аннотация и библиографическая запись. Не заявлено воспроизведение диска Сабу."
+  },
+  "stone-harrell": {
+    "title": "James A. Harrell: Utilitarian Stones, UCLA Encyclopedia of Egyptology (2012)",
+    "url": "https://escholarship.org/uc/item/77t294df",
+    "type": "Рецензируемый геологический обзор",
+    "supports": "Терминология метаосадочных пород и каменных инструментов Египта.",
+    "note": "Это не петрографический анализ JE 71295."
+  },
+  "voynich-davis": {
+    "title": "Yale Library — Исследование Лизы Фейгин Дэвис и пять почерков (2024)",
+    "url": "https://library.yale.edu/news/alumna-joins-long-search-unlock-enigmatic-15th-century-manuscript",
+    "type": "Университетская библиотека об исследовании",
+    "supports": "Атрибуция пяти почерков исследованию Davis, Manuscript Studies 5.1 (2020), 164–180."
+  }
+}

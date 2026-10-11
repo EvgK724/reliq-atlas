@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="lycurgus-title lycurgus-desc">
+<title id="lycurgus-title">Кубок Ликурга: свет и цвет</title><desc id="lycurgus-desc">Авторская неоновая схема с условным мифологическим декором. Красный и зелёный относятся к разным режимам освещения. Металлическая оправа более поздняя.</desc>
+<defs>
+<filter id="lycurgus-glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="lycurgus-metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4b777" stop-opacity=".3"/><stop offset=".5" stop-color="#192f31" stop-opacity=".65"/><stop offset="1" stop-color="#82efe1" stop-opacity=".18"/></linearGradient>
+<radialGradient id="lycurgus-halo"><stop stop-color="#82efe1" stop-opacity=".11"/><stop offset="1" stop-color="#82efe1" stop-opacity="0"/></radialGradient>
+<marker id="lycurgus-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#82efe1" stroke-width="1.7"/></marker>
+<marker id="lycurgus-amber-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#e4b777" stroke-width="1.7"/></marker>
+<marker id="lycurgus-red-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#ff7b85" stroke-width="1.7"/></marker>
+<marker id="lycurgus-white-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#e1e9e9" stroke-width="1.7"/></marker>
+<g id="lycurgus-cup" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M230 234Q500 192 770 234L731 492Q708 594 593 622H407Q292 594 269 492Z" fill="currentColor" fill-opacity=".1" stroke-width="5"/>
+<ellipse cx="500" cy="234" rx="270" ry="43" stroke-width="6"/><ellipse cx="500" cy="239" rx="247" ry="26" stroke-width="2" opacity=".6"/>
+<path d="M250 297Q500 354 749 297M271 477Q500 557 728 477M283 522Q500 596 717 522" stroke-width="3" opacity=".65"/>
+<g stroke-width="9"><path d="M289 556Q354 493 309 411T343 275M706 552Q650 492 696 410T656 274M310 545Q422 602 500 508T708 347M267 342Q397 363 471 450T732 469"/></g>
+<path d="M318 374Q373 354 369 310Q331 313 318 374M329 441Q378 415 405 455Q369 479 329 441M678 361Q625 347 622 301Q661 310 678 361M682 458Q628 430 607 474Q650 497 682 458M434 534Q451 581 494 563Q477 526 434 534M564 411Q581 369 626 389Q610 423 564 411" stroke-width="4" fill="currentColor" fill-opacity=".18"/>
+<g stroke-width="5" fill="currentColor" fill-opacity=".14"><path d="M482 347Q451 379 465 421L473 460 454 494 470 528 499 480 506 437 534 407 540 374 516 346Z"/>
+<path d="M483 351 442 365 415 397 427 410 461 384 484 383M523 355 555 377 572 355 562 341 537 350M472 521 450 560 467 571 492 544 504 510M496 477 529 498 548 549 567 543 553 482 525 454"/>
+<path d="M486 339Q474 325 479 306Q485 285 504 287Q530 290 528 312L522 337 506 349Z"/><path d="M484 302Q506 279 527 304M491 326 509 331" stroke-width="3"/>
+</g>
+<path d="M413 579Q465 486 433 421M576 583Q535 513 567 453" stroke-width="8"/>
+<path d="M410 612Q500 635 590 612" stroke-width="5"/>
+</g></defs>
+<g fill="none" stroke="#82efe1" stroke-width="1" opacity=".12"><path d="M80 100H920M80 700H920M120 60V740M880 60V740"/>
+<circle cx="500" cy="400" r="326" stroke-dasharray="2 15"/></g>
+<ellipse cx="500" cy="410" rx="440" ry="360" fill="url(#lycurgus-halo)"/>
+<g data-layer="object">
+<g data-light="front" color="#82efe1"><use href="#lycurgus-cup"/><g fill="none" stroke="#82efe1" stroke-width="3" opacity=".5"><path d="M126 327 223 344M129 402 235 418M138 478 249 490" marker-end="url(#lycurgus-arrow)"/></g></g>
+<g data-light="back" style="display:none" color="#ff7b85"><ellipse cx="500" cy="407" rx="250" ry="208" fill="#a43952" opacity=".12"/><use href="#lycurgus-cup"/><g fill="none" stroke="#ff7b85" stroke-width="3" opacity=".65"><path d="M772 341 874 324M763 418 874 402M750 490 863 479" marker-end="url(#lycurgus-red-arrow)"/></g></g>
+<g fill="url(#lycurgus-metal)" stroke="#e4b777" stroke-width="4"><path d="M222 221Q500 171 778 221L776 243Q500 198 224 243Z"/><path d="M404 613Q500 634 596 613L588 653Q500 684 412 653Z"/><path d="M444 663 427 689Q500 721 573 689L556 663"/><ellipse cx="500" cy="699" rx="114" ry="21"/></g>
+<g fill="none" stroke="#e4b777" stroke-width="2" opacity=".68"><path d="M237 226Q500 183 763 226M429 639Q460 677 482 640M493 642Q515 678 537 640M548 641Q568 666 577 637"/></g>
+</g><g data-layer="detail" style="display:none">
+<rect x="361" y="189" width="278" height="416" rx="26" fill="#82efe1" fill-opacity=".08" stroke="#82efe1" stroke-width="3"/>
+<g fill="#e4b777" stroke="#fff0c9" stroke-width="2"><circle cx="421" cy="245" r="14"/><circle cx="558" cy="275" r="21"/><circle cx="486" cy="329" r="13"/><circle cx="413" cy="419" r="22"/><circle cx="569" cy="417" r="14"/><circle cx="494" cy="506" r="19"/><circle cx="569" cy="558" r="12"/><circle cx="414" cy="553" r="10"/></g>
+<g fill="none" stroke-width="7" stroke-linecap="round"><path d="M99 347H390" stroke="#e1e9e9" marker-end="url(#lycurgus-white-arrow)"/><path d="M406 350 147 237" stroke="#82efe1" marker-end="url(#lycurgus-arrow)"/><path d="M417 357 174 480" stroke="#82efe1" stroke-width="4" opacity=".7" marker-end="url(#lycurgus-arrow)"/><path d="M634 349H881" stroke="#ff7b85" marker-end="url(#lycurgus-red-arrow)"/>
+<path d="M674 379H854M674 394H836" stroke="#ff7b85" stroke-width="2" opacity=".35"/></g>
+<g font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle"><text x="190" y="172" fill="#82efe1">Отражение</text><text x="803" y="281" fill="#ff8b96">На просвет</text><text x="500" y="698" fill="#e4b777">Частицы в стекле</text></g>
+</g></svg>

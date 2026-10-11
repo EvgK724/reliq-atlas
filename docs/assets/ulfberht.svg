@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="ulfberht-title ulfberht-desc">
+<title id="ulfberht-title">Меч с надписью Ulfberht и варианты структуры</title><desc id="ulfberht-desc">Авторская схема клинка с условной орнаментацией. Разрезы показывают варианты в исследованной группе и не являются анализом конкретного музейного меча L.2006.57.</desc>
+<defs>
+<filter id="ulfberht-glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="ulfberht-metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4b777" stop-opacity=".3"/><stop offset=".5" stop-color="#192f31" stop-opacity=".65"/><stop offset="1" stop-color="#82efe1" stop-opacity=".18"/></linearGradient>
+<radialGradient id="ulfberht-halo"><stop stop-color="#82efe1" stop-opacity=".11"/><stop offset="1" stop-color="#82efe1" stop-opacity="0"/></radialGradient>
+<marker id="ulfberht-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#82efe1" stroke-width="1.7"/></marker>
+<marker id="ulfberht-amber-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#e4b777" stroke-width="1.7"/></marker>
+<marker id="ulfberht-red-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#ff7b85" stroke-width="1.7"/></marker>
+<marker id="ulfberht-white-arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M1 1 11 6 1 11" fill="none" stroke="#e1e9e9" stroke-width="1.7"/></marker>
+</defs>
+<g fill="none" stroke="#82efe1" stroke-width="1" opacity=".12"><path d="M80 100H920M80 700H920M120 60V740M880 60V740"/>
+<circle cx="500" cy="400" r="326" stroke-dasharray="2 15"/></g>
+<ellipse cx="500" cy="410" rx="440" ry="360" fill="url(#ulfberht-halo)"/>
+<g data-layer="object">
+<g transform="translate(499 402) rotate(40) translate(-499 -402)">
+<path d="M451 256H547L535 620Q525 681 499 737Q471 681 463 620Z" fill="url(#ulfberht-metal)" stroke="#82efe1" stroke-width="4"/>
+<path d="M479 267H520L510 611 499 668 488 611Z" fill="#080f14" stroke="#82efe1" stroke-width="2" opacity=".8"/>
+<path d="M451 258 479 269M547 258 520 269M468 620 493 686M530 620 505 686" fill="none" stroke="#e4b777" stroke-width="2"/>
+<path d="M395 244Q499 231 603 244L599 273Q499 262 400 273Z" fill="url(#ulfberht-metal)" stroke="#e4b777" stroke-width="5"/>
+<path d="M475 145H523L526 237H472Z" fill="#193130" stroke="#82efe1" stroke-width="4"/>
+<g stroke="#e4b777" stroke-width="4" opacity=".8"><path d="M475 157 524 171M475 177 524 191M474 197 525 211M473 217 525 231"/></g>
+<path d="M426 121Q421 88 446 85Q443 64 466 66Q477 29 499 41Q522 29 533 66Q557 64 554 85Q578 88 573 121Z" fill="url(#ulfberht-metal)" stroke="#e4b777" stroke-width="5"/>
+<path d="M430 122H568L558 145H440Z" fill="#132c2d" stroke="#82efe1" stroke-width="3"/>
+<g stroke="#e4b777" stroke-width="2" fill="none"><path d="M448 86 459 121M467 68 477 121M499 43V121M532 69 521 121M553 86 540 121M439 130H560"/></g>
+<path d="M472 283 473 368" stroke="#e4b777" stroke-width="2" opacity=".4"/>
+</g>
+<path d="M519 314 381 192H130" stroke="#e4b777" stroke-width="2" fill="none"/><circle cx="519" cy="314" r="6" fill="#e4b777"/>
+<g font-family="Arial,sans-serif" font-weight="700" fill="#e4b777"><text x="130" y="175" font-size="34">+VLFBERHT+</text></g>
+</g><g data-layer="detail" style="display:none">
+<g font-family="Arial,sans-serif" font-weight="700" text-anchor="middle"><text x="500" y="114" font-size="44" letter-spacing="4" fill="#e4b777">+VLFBERHT+</text>
+<text x="500" y="226" font-size="34" fill="#d9efed">Однородный металл</text><text x="500" y="500" font-size="34" fill="#d9efed">Сварные элементы</text></g>
+<path d="M133 323 354 267H646L867 323 646 379H354Z" fill="#82efe1" fill-opacity=".15" stroke="#82efe1" stroke-width="4"/>
+<path d="M169 323H831" stroke="#82efe1" stroke-width="2" opacity=".4"/>
+<g stroke="#82efe1" stroke-width="2" opacity=".28"><path d="M341 294 363 337 419 355 483 284 544 356 603 290 657 341M410 285 437 314 434 360M549 290 533 319 590 369" fill="none"/></g>
+<path d="M133 596 354 540H646L867 596 646 652H354Z" fill="#82efe1" fill-opacity=".18" stroke="#82efe1" stroke-width="4"/>
+<path d="M300 596 398 554H602L700 596 602 638H398Z" fill="#e4b777" fill-opacity=".25" stroke="#e4b777" stroke-width="3"/>
+<path d="M332 581Q414 598 490 581T670 581M340 597Q414 614 490 597T670 597M338 611Q414 628 490 611T658 611" fill="none" stroke="#e4b777" stroke-width="3"/>
+<path d="M280 545 321 577M723 646 682 615" stroke="#e4b777" stroke-width="2"/>
+<g fill="none" stroke="#82efe1" stroke-width="1.5" opacity=".4"><path d="M100 271V378M90 271H111M90 378H111M901 540V652M891 540H912M891 652H912"/></g>
+</g></svg>

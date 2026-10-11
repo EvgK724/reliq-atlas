@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="sabu-title sabu-description">
+  <title id="sabu-title">Диск Сабу — форма каменного сосуда</title>
+  <desc id="sabu-description">Условные вид сверху и профиль. Три загнутые внутрь области края, полая втулка и тонкий обод. Схема не является обмером или картой реставрации.</desc>
+  <defs>
+    <linearGradient id="sabu-stone" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#82efe1" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#82efe1" stop-opacity=".025"/>
+    </linearGradient>
+    <linearGradient id="sabu-lobe" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#e4b777" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#82efe1" stop-opacity=".06"/>
+    </linearGradient>
+    <filter id="sabu-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <mask id="sabu-apertures">
+      <rect width="1000" height="800" fill="white"/>
+      <g fill="black" stroke="black" stroke-width="2">
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z"/>
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z" transform="rotate(120 500 390)"/>
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z" transform="rotate(240 500 390)"/>
+        <circle cx="500" cy="390" r="38"/>
+      </g>
+    </mask>
+  </defs>
+  <g data-layer="object" font-family="Arial,sans-serif" font-size="32" font-weight="600" fill="#c8dedb">
+    <g stroke="#82efe1" stroke-width="3" fill="none" opacity=".14">
+      <path d="M500 74V106M500 674V691M191 390H211M789 390H809"/>
+      <circle cx="500" cy="390" r="292" stroke-dasharray="4 18"/>
+    </g>
+    <circle cx="500" cy="390" r="274" fill="url(#sabu-stone)" stroke="#82efe1" stroke-width="5" mask="url(#sabu-apertures)"/>
+    <circle cx="500" cy="390" r="274" fill="none" stroke="#82efe1" stroke-width="6" filter="url(#sabu-glow)" opacity=".35"/>
+    <g stroke="#82efe1" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+      <g>
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z" fill="none"/>
+        <path d="M493 132 C477 156 496 310 463 345 C420 388 342 320 257 262 C355 303 465 260 493 132Z" fill="url(#sabu-lobe)"/>
+      </g>
+      <g transform="rotate(120 500 390)">
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z" fill="none"/>
+        <path d="M493 132 C477 156 496 310 463 345 C420 388 342 320 257 262 C355 303 465 260 493 132Z" fill="url(#sabu-lobe)"/>
+      </g>
+      <g transform="rotate(240 500 390)">
+        <path d="M493 132 A266 266 0 0 0 257 262 C355 303 465 260 493 132Z" fill="none"/>
+        <path d="M493 132 C477 156 496 310 463 345 C420 388 342 320 257 262 C355 303 465 260 493 132Z" fill="url(#sabu-lobe)"/>
+      </g>
+      <circle cx="500" cy="390" r="46" fill="none" stroke="#e4b777" stroke-width="4"/>
+      <circle cx="500" cy="390" r="38" fill="none" stroke="#e4b777" stroke-width="2"/>
+    </g>
+    <g fill="none" stroke="#e4b777" stroke-width="2">
+      <path d="M541 372L752 204H862"/>
+      <circle cx="541" cy="372" r="4" fill="#e4b777"/>
+      <path d="M389 523L226 591H81"/>
+      <circle cx="389" cy="523" r="4" fill="#e4b777"/>
+      <path d="M226 670V717M774 670V717M230 707H770"/>
+      <path d="M244 700L230 707L244 714M756 700L770 707L756 714"/>
+    </g>
+    <text x="745" y="181">Втулка</text>
+    <text x="79" y="633">Изгиб края</text>
+    <text x="500" y="759" text-anchor="middle" fill="#e4b777">≈60 см</text>
+  </g>
+  <g data-layer="detail" style="display:none" font-family="Arial,sans-serif" font-size="32" font-weight="600" fill="#c8dedb">
+    <g fill="none" stroke="#82efe1" stroke-width="3" opacity=".18">
+      <path d="M114 590H890M500 230V270M500 600V625"/>
+      <path d="M120 445H880" stroke-dasharray="5 12"/>
+    </g>
+    <g stroke="#82efe1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M128 421 C178 483 330 529 455 538 L455 329 Q460 321 466 329 L466 544 C349 545 183 516 132 451 Q112 434 128 421Z" fill="url(#sabu-stone)"/>
+      <path d="M872 421 C822 483 670 529 545 538 L545 329 Q540 321 534 329 L534 544 C651 545 817 516 868 451 Q888 434 872 421Z" fill="url(#sabu-stone)"/>
+      <path d="M133 424 C238 424 343 423 454 422" fill="none" opacity=".65"/>
+      <path d="M546 422H868" fill="none" opacity=".65"/>
+      <path d="M782 488 C777 454 715 415 617 410 C693 409 744 423 765 447" fill="url(#sabu-lobe)" stroke="#e4b777"/>
+      <path d="M221 487 C268 501 352 518 430 517" fill="none" opacity=".45"/>
+    </g>
+    <g fill="none" stroke="#e4b777" stroke-width="2">
+      <path d="M144 434L214 300H365"/>
+      <circle cx="144" cy="434" r="4" fill="#e4b777"/>
+      <path d="M688 417L742 319H921"/>
+      <circle cx="688" cy="417" r="4" fill="#e4b777"/>
+    </g>
+    <text x="166" y="274">Тонкий край</text>
+    <text x="650" y="291">Внутренний изгиб</text>
+    <text x="500" y="687" text-anchor="middle" fill="#e4b777">Условный профиль</text>
+  </g>
+</svg>
